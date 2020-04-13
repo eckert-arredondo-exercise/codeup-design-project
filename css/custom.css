@@ -3,15 +3,16 @@
 }
 
 body {
-    background-color: #f0f0f0;
+    background-color: #f0f0f0 !important;
 }
 
-h1, h2 {
+h1, h2, h3, h5 {
     font-family: 'Anton', sans-serif;
 }
 
 p {
     font-family: 'Abel', sans-serif;
+    font-size: 1.2em;
 }
 
 .design {
@@ -19,7 +20,7 @@ p {
 }
 
 .develop {
-    background-color: #dea03d
+    background-color: #eb9d3a
 }
 
 .support {
@@ -28,4 +29,22 @@ p {
 
 .host {
     background-color: #00aba9
+}
+
+.img-border {
+    border: #e6e6e6 10px solid
+}
+
+.circle-border {
+    border: white 10px solid
+}
+
+.large-circle {
+    height: 8em;
+    width: 8em;
+}
+
+.small-circle {
+    height: 2em;
+    width: 2em;
 }
