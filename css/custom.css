@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+h1, h2 {
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    font-family: 'Abel', sans-serif;
+}
+
+.design {
+    background-color: #e6563b
+}
+
+.develop {
+    background-color: #dea03d
+}
+
+.support {
+    background-color: #76b06c
+}
+
+.host {
+    background-color: #00aba9
+}
