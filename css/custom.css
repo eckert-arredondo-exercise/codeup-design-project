@@ -6,6 +6,12 @@ body {
     background-color: #f0f0f0 !important;
 }
 
+.top-stripe {
+    background-color: #fff;
+    width: 100%;
+    height: 52.5px;
+}
+
 h1, h2, h3, h5 {
     font-family: 'Anton', sans-serif;
 }
@@ -47,4 +53,15 @@ p {
 .small-circle {
     height: 2em;
     width: 2em;
+}
+
+.logo {
+    height: 105px;
+    width: 105px;
+}
+
+.company-name {
+    text-decoration: none;
+    font-size: 3em;
+    color: black;
 }
