@@ -18,17 +18,17 @@ body {
     position: absolute;
 }
 
-h1, h2, h3, h5 {
+h1, h2, h3, h4, h5 {
     font-family: 'Anton', sans-serif;
 }
 
-.bigboyfont {
-    font-size: 3em;
-}
+/*.bigboyfont {*/
+/*    font-size: 4em;*/
+/*}*/
 
 p {
     font-family: 'Abel', sans-serif;
-    font-size: 1.2em;
+    /*font-size: 1.2em;*/
 }
 
 .design {
@@ -48,21 +48,21 @@ p {
 }
 
 .img-border {
-    border: #e6e6e6 10px solid
+    border: #e6e6e6 5px solid
 }
 
 .circle-border {
-    border: white 10px solid
+    border: white 5px solid
 }
 
 .large-circle {
-    height: 8em;
-    width: 8em;
+    height: 105px;
+    width: 105px;
 }
 
 .small-circle {
-    height: 2em;
-    width: 2em;
+    height: 18px;
+    width: 18px;
 }
 
 .logo {
@@ -72,13 +72,10 @@ p {
 
 .company-name {
     text-decoration: none;
-    font-size: 3em;
+    /*font-size: 3em;*/
     color: black;
 }
 
-@media screen and (min-width: 576px) and (max-width: 768px) {
-    .hidey-boy {
-        display: none;
-    }
-
+.sm-tagline {
+    /*font-size: 2em;*/
 }
