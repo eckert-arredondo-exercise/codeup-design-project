@@ -13,7 +13,7 @@ body {
 .top-stripe {
     background-color: #fff;
     margin-top: 1.75em;
-    width: 100%;
+    width: 100vw;
     height: 52.5px;
     position: absolute;
 }
@@ -77,4 +77,26 @@ p {
 
 .sm-tagline {
     /*font-size: 2em;*/
+}
+
+/*.img-sm-sizer {*/
+/*    height: 163.1px;*/
+/*    width: 240px;*/
+/*}*/
+
+@media only screen and (min-width: 576px) {
+    /*.col-sm-3 {*/
+    /*    max-width: 7em !important;*/
+    /*}*/
+    
+    /*.img-sm-sizer {*/
+    /*    max-height: 163.1px;*/
+    /*    max-width: 240px;*/
+    /*}*/
+    
+    .hr-width {
+        width: 56%;
+    }
+    
+    
 }
