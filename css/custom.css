@@ -22,13 +22,10 @@ h1, h2, h3, h4, h5 {
     font-family: 'Anton', sans-serif;
 }
 
-/*.bigboyfont {*/
-/*    font-size: 4em;*/
-/*}*/
 
 p {
     font-family: 'Abel', sans-serif;
-    /*font-size: 1.2em;*/
+    font-size: 14px;
 }
 
 .design {
@@ -63,6 +60,8 @@ p {
 .small-circle {
     height: 18px;
     width: 18px;
+    font-size: 12px;
+    font-family: 'Anton', sans-serif;
 }
 
 .logo {
@@ -72,8 +71,8 @@ p {
 
 .company-name {
     text-decoration: none;
-    /*font-size: 3em;*/
     color: black;
+    font-size: 64px;
 }
 
 .sm-tagline {
