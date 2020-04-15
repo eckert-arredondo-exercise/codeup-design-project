@@ -103,6 +103,16 @@ p {
         height: 263px;
         width: 240px;
     }
+    
+    .nav-order-p {
+        order: 2 !important;
+        top: 90px;
+        position: absolute;
+    }
+    
+    .nav-order-ul {
+        order: 1 !important;
+    }
 
 }
 
