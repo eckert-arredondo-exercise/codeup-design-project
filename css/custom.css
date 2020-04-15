@@ -22,6 +22,9 @@ h1, h2, h3, h4, h5 {
     font-family: 'Anton', sans-serif;
 }
 
+i {
+    color: #00acee
+}
 
 p {
     font-family: 'Abel', sans-serif;
