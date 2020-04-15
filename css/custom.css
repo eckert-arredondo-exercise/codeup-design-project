@@ -79,12 +79,6 @@ p {
     font-size: 64px;
 }
 
-
-.img-sm-sizer {
-    height: 163.1px;
-    width: 240px;
-}
-
 .feature-sizer {
     height: 263px;
     width: 240px;
@@ -97,11 +91,6 @@ p {
     
     .hr-width {
         width: 77%;
-    }
-
-    .feature-sizer {
-        height: 263px;
-        width: 240px;
     }
     
     .nav-order-p {
@@ -131,8 +120,4 @@ p {
         border: 3px solid #e6e6e6;
         border-radius: 5px;
     }
-}
-
-@media only screen and (min-width: 992px) {
-
 }
